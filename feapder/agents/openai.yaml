@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feapder 中文助手"
+  short_description: "帮助处理 feapder 1.9.2 爬虫、Item、pipeline 与调试"
+  default_prompt: "Use $feapder to 编写、修改或调试 feapder 1.9.2 的爬虫、Item、pipeline、setting.py 或 shell 调试流程。"
