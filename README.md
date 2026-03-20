@@ -39,6 +39,8 @@
     └── references/
 ```
 
+> 说明：仓库根目录的 `README.md` 仅用于仓库文档展示，不属于安装到 `~/.codex/skills/feapder/` 的文件。
+
 ## 目录结构
 
 ```text
