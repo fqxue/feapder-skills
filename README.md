@@ -35,7 +35,6 @@
 ~/.codex/skills/
 └── feapder/
     ├── SKILL.md
-    ├── README.md
     ├── agents/
     └── references/
 ```
@@ -43,15 +42,16 @@
 ## 目录结构
 
 ```text
-feapder/
-├── SKILL.md
+feapder-skills/
 ├── README.md
-├── agents/
-└── references/
-    ├── spider-types-and-scaffolding.md
-    ├── code-patterns.md
-    ├── settings-debugging-and-sources.md
-    └── vendor/
+└── feapder/
+    ├── SKILL.md
+    ├── agents/
+    └── references/
+        ├── spider-types-and-scaffolding.md
+        ├── code-patterns.md
+        ├── settings-debugging-and-sources.md
+        └── vendor/
 ```
 
 ## 关键资源
